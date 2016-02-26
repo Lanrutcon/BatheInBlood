@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: BatheInBlood
+## Author: Lanrutcon
+## Notes: DTPS
+## Version: 1.0
+## SavedVariables: BatheInBloodSV
+
+BatheInBlood.lua
